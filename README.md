@@ -21,9 +21,10 @@ Apasionado por construir APIs escalables y seguras, con experiencia en diseño d
 ---
 
 ## 📂 Portafolio y contacto
-- 🌐 [Portafolio]([https://tu-portafolio.com](https://joseluis-dm.github.io/portafolio/))  
+- 🌐 [Portafolio](https://joseluis-dm.github.io/portafolio/)  
 - 💼 [LinkedIn](www.linkedin.com/in/josé-luis-domínguez-medina)  
-- 📧 Email: medinadomluis@gmail.com 
+- 📧 Email: medinadomluis@gmail.com
+- 📄 [Ver mi CV](https://drive.google.com/drive/folders/1INuKjNF1qIPijjRisztOzRxCxdrndrdc)
 
 ---
 
