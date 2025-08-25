@@ -1,4 +1,4 @@
-# 👋 Hola, soy José Luis Domínguez  
+# 👋 Hola, soy José Luis Domínguez Medina
 
 💻 **Backend Developer | Java & Spring Boot**  
 Apasionado por construir APIs escalables y seguras, con experiencia en diseño de arquitecturas limpias y buenas prácticas de desarrollo.  
@@ -21,9 +21,9 @@ Apasionado por construir APIs escalables y seguras, con experiencia en diseño d
 ---
 
 ## 📂 Portafolio y contacto
-- 🌐 [Portafolio](https://tu-portafolio.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario/)  
-- 📧 Email: tuemail@gmail.com  
+- 🌐 [Portafolio]([https://tu-portafolio.com](https://joseluis-dm.github.io/portafolio/))  
+- 💼 [LinkedIn](www.linkedin.com/in/josé-luis-domínguez-medina)  
+- 📧 Email: medinadomluis@gmail.com 
 
 ---
 
