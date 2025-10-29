@@ -14,6 +14,12 @@ Apasionado por construir APIs escalables y seguras, con experiencia en diseño d
 
 ---
 
+## 🧪 Testing y 📝 Documentación
+- ✅ **Pruebas unitarias e integrales:** JUnit, Mockito  
+- 📊 **Documentación de APIs:** Swagger
+
+---
+
 ## 📌 Actualmente
 - Desarrollando proyectos backend con **Spring Boot**.  
 - Mejorando mis habilidades en **arquitectura de microservicios** y **Dockerización**.  
