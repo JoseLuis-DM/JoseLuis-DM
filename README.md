@@ -1,11 +1,11 @@
 # 👋 Hola, soy José Luis Domínguez Medina
 
-💻 **Backend Developer | Java & Spring Boot**  
+ **Backend Developer | Java & Spring Boot**  
 Apasionado por construir APIs escalables y seguras, con experiencia en diseño de arquitecturas limpias y buenas prácticas de desarrollo.  
 
 ---
 
-## 🚀 Tecnologías principales
+## Tecnologías principales
 - **Lenguajes:** Java, JavaScript, C++
 - **Frameworks:** Spring Boot (Spring MVC, Spring Security con JWT)  
 - **Base de datos:** MySQL, PostgreSQL  
@@ -14,13 +14,13 @@ Apasionado por construir APIs escalables y seguras, con experiencia en diseño d
 
 ---
 
-## 🧪 Testing y 📝 Documentación
-- ✅ **Pruebas unitarias e integrales:** JUnit, Mockito  
-- 📊 **Documentación de APIs:** Swagger
+## Testing y Documentación
+- **Pruebas unitarias e integrales:** JUnit, Mockito  
+- **Documentación de APIs:** Swagger
 
 ---
 
-## 📌 Actualmente
+## Actualmente
 - Desarrollando proyectos backend con **Spring Boot**.  
 - Mejorando mis habilidades en **arquitectura de microservicios** y **Dockerización**.  
 
@@ -33,5 +33,3 @@ Apasionado por construir APIs escalables y seguras, con experiencia en diseño d
 - 📄 [Ver mi CV](https://drive.google.com/file/d/19DM_GINC-zvVsUYfDMdBc-C3nc4SBas9/view?usp=drive_link)
 
 ---
-
-⭐️ “El código limpio no es el que se entiende cuando lo lees, sino el que no genera dudas al trabajar con él.”  
