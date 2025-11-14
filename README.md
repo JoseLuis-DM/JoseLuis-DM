@@ -8,7 +8,7 @@ Apasionado por construir APIs escalables y seguras, con experiencia en diseño d
 ## Tecnologías principales
 - **Lenguajes:** Java, JavaScript, C++
 - **Frameworks:** Spring Boot (Spring MVC, Spring Security con JWT)  
-- **Base de datos:** MySQL, PostgreSQL  
+- **Base de datos:** MySQL, PostgreSQL, Oracle Database 
 - **Contenedores:** Docker  
 - **Otros:** Git, REST API design  
 
